@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+    color: red;
+    font-family: 'Courier New', Times New Roman
+}
+img {
+    float:left;
+    border-radius: 50%;
+}
+h1, h2 {
+    color: purple;
+    font-family: 'Times New Roman';
+}
+h2 {
+        font-size: 42px;
+    clear: both;
+    }
+.demo {
+    color: blue;
+}
+#demo {
+    color: green;
+}
+h3 {
+    color: white; 
+}
